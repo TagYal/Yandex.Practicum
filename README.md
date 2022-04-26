@@ -2,20 +2,6 @@
 Здесь представлены завершенные проекты, которые были выполнены в рамках обучения на программе Data Scientist (Practicum by Yandex) https://practicum.yandex.com <br>
 Проекты разделены на блоки: условно DA (первичная работа с данными) и DS (работа с данными + применение алгоритмов DS, работа с моделями)
 
-Python, Pandas, matplotlib, LinearRegression, RandomForestRegressor, CatBoostRegressor, временные ряды (statsmodels.tsa.seasonal)
-
-
-
-import pandas as pd
-import matplotlib.pyplot as plt
-
-from sklearn.linear_model import LinearRegression
-from sklearn.ensemble import RandomForestRegressor
-from catboost import CatBoostRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error
-
-
 ## DA
 
 Номер| Название проекта| Содержание файла | Навыки, библиотеки и инструменты
@@ -44,7 +30,7 @@ from sklearn.metrics import mean_squared_error
 
 
 
-Стек технологий/инструменты/подходы:
+## Стек технологий/инструменты/подходы:
 - Bootstrap
 - CatBoost
 - LightGBM
